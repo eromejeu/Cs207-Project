@@ -23,17 +23,17 @@ The picture of my project would be in the other file, named 3dmodel.jpg . Not fi
 # Requirements and Materials
 
 Tools 
-* • 3D Printer with Dual Extruder 
-* • Hakko Flush Diagonal Cutters 
-* • Hakku Wire Strippers 
-* • Tweezers 
+*  3D Printer with Dual Extruder 
+*  Hakko Flush Diagonal Cutters 
+*  Hakku Wire Strippers 
+*  Tweezers 
 * Parts 
-* • NinjaFlex Glow in the Dark Filament 
-* • Diffused LEDs (5mm, 3mm) or Adafruit LED Sequins 
-* • Conductive Filament - ProtoPasta 
-* • Bare Conductive Paint 
-* • CR2032 Lithium Coin Cell
-* • Tactile Switch Button
+*  NinjaFlex Glow in the Dark Filament 
+*  Diffused LEDs (5mm, 3mm) or Adafruit LED Sequins 
+*  Conductive Filament - ProtoPasta 
+*  Bare Conductive Paint 
+*  CR2032 Lithium Coin Cell
+*  Tactile Switch Button
 
 # Build Instructions
 
