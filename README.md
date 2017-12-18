@@ -7,39 +7,39 @@ The picture of my project would be in the other file, named 3dmodel.jpg . Not fi
 
 # Repository Contents
 
-/3dmodel.jpg - image file for the project hand model
-/3doutline.jpg - image file for the hand drawing outline
-/flashforge dual extruder profile - profile settings for the 3d printer
-/LICENSE - the license file
-/README.md - the file you're reading now :D
-/build.ino - no coding done for this project
-/hand.stl - stl file for the hand model
-/handStrap.stl - stl file for the hand straps
-/handStrapMid.stl - stl file for hand straps at midsection of hand
-/handStrapSM.stl - stl file for hand straps
-/handTraceGround.stl - stl file for ground trace
-/handTracePower.stl - stl file for power trace
+* **/3dmodel.jpg** - image file for the project hand model
+* **/3doutline.jpg** - image file for the hand drawing outline
+* **/flashforge dual extruder profile** - profile settings for the 3d printer
+* **/LICENSE** - the license file
+* **/README.md** - the file you're reading now :D
+* **/build.ino** - no coding done for this project
+* **/hand.stl** - stl file for the hand model
+* **/handStrap.stl** - stl file for the hand straps
+* **/handStrapMid.stl** - stl file for hand straps at midsection of hand
+* **/handStrapSM.stl** - stl file for hand straps
+* **/handTraceGround.stl** - stl file for ground trace
+* **/handTracePower.stl** - stl file for power trace
 
 # Requirements and Materials
 
 Tools 
-• 3D Printer with Dual Extruder 
-• Hakko Flush Diagonal Cutters 
-• Hakku Wire Strippers 
-• Tweezers 
-Parts 
-• NinjaFlex Glow in the Dark Filament 
-• Diffused LEDs (5mm, 3mm) or Adafruit LED Sequins 
-• Conductive Filament - ProtoPasta 
-• Bare Conductive Paint 
-• CR2032 Lithium Coin Cell
-• Tactile Switch Button
+*• 3D Printer with Dual Extruder 
+*• Hakko Flush Diagonal Cutters 
+*• Hakku Wire Strippers 
+*• Tweezers 
+*Parts 
+*• NinjaFlex Glow in the Dark Filament 
+*• Diffused LEDs (5mm, 3mm) or Adafruit LED Sequins 
+*• Conductive Filament - ProtoPasta 
+*• Bare Conductive Paint 
+*• CR2032 Lithium Coin Cell
+*• Tactile Switch Button
 
 # Build Instructions
 
 Image of the build is in the 3dmodel.jpg
 
-#Firmware Installation
+# Firmware Installation
 
 I used the Cura Software for the 3D modelling, which can be downloaded here https://ultimaker.com/en/products/ultimaker-cura-software 
 
